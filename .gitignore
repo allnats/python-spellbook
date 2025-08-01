@@ -12,3 +12,7 @@ __pycache__/
 
 # Rufus Linter configuration
 pyproject.toml
+
+
+# Log files
+*.log
